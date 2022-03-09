@@ -1,0 +1,9 @@
+Ironfall	Automahelm	1
+Ironfall	Cooperward	5
+Whealinghold	Titferburn	6
+Whealinghold	Cooperward	1
+Titferburn	Automahelm	1
+Titferburn	Whealinghold	6
+Cooperward	Titferburn	4
+Automahelm	Whealinghold	3
+Automahelm	Cooperward	3
